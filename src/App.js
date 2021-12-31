@@ -8,8 +8,8 @@ function App() {
  const style1= {
    padding:"50px",
    fontFamily:'EB Garamond',
-  fontSize: '20pt'
-  }
+   fontSize: '20pt',
+     }
   return (
     <div style={style1}>
       <Accordion>
